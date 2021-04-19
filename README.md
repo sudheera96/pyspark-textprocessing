@@ -1,6 +1,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/22390581?s=460&u=e2a3ccb663ae34048a4c2233bb9a530d2de29a9c&v=4" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="300" height="350">
+     alt="Size Limit logo by Anton Lovchikov" width="250" height="300">
 
 # Sri Sudheera Chitipolu [![](https://img.shields.io/badge/Github-Sudheera96-orange)](https://github.com/sudheera96)
 
