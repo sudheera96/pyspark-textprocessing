@@ -10,6 +10,9 @@ I am certified in
 
 ![AWS Cloud Practitioner](https://raw.githubusercontent.com/sudheera96/badges/main/aws-certified-cloud-practitioner.png) ![IBM Bigdata Fundamentals](https://raw.githubusercontent.com/sudheera96/badges/main/big-data-foundations-level-1.png)   ![H2o.ai](https://raw.githubusercontent.com/sudheera96/badges/main/badge-8779.png) ![kubernetes,containers](https://raw.githubusercontent.com/sudheera96/badges/main/containers-kubernetes-essentials.png)
 
+#### Find Me elsewhere
+[![](https://img.shields.io/badge/Linkedin-Sri%20Sudheera-blue)](https://www.linkedin.com/in/sri-sudheera-chitipolu/) [![](https://img.shields.io/badge/Tableau-Sri%20Sudheera-white)](https://public.tableau.com/profile/sri1483#!/) [![](https://img.shields.io/badge/Kaggle-Sri%20Sudheera-blue)](https://www.kaggle.com/srisudheera)
+
 
 # PySpark Text processing [![](https://img.shields.io/badge/PySpark-Sudheera96-orange)](https://github.com/sudheera96/pyspark-textprocessing/blob/main/Sri%20Sudheera%20Chitipolu%20-%20Bigdata%20Project%20(1).ipynb)
 
