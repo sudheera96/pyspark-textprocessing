@@ -171,7 +171,7 @@ If we want to run the files in other notebooks, use below line of code for savin
 plt.savefig('LittleWomen_Results.png')
 ```
 ### Insights
-From the word count charts we can conclude that important characters of story are Jo, meg, amy, Laurie. God word also repeated alot by that we can say the story mainly depends on good and happiness.
+From the word count charts we can conclude that important characters of story are Jo, meg, amy, Laurie. Good word also repeated alot by that we can say the story mainly depends on good and happiness.
 
 ## References
 - [Word Cloud](https://www.section.io/engineering-education/word-cloud/)
